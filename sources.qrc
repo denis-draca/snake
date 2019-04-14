@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/snake/tokenPop">
+        <file>sounds/pop1</file>
+    </qresource>
+    <qresource prefix="/sprites">
+        <file>imgs/snakeBody.jpg</file>
+        <file>imgs/head.jpg</file>
+        <file>imgs/token.jpg</file>
+    </qresource>
+</RCC>
